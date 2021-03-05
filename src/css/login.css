@@ -1,0 +1,12 @@
+.alignFooter {
+	display: flex;
+	justify-content: space-between;
+}
+body{
+    margin-bottom: 300px;
+}
+footer{
+    margin-top: 120px;
+    position: absolute;
+    bottom: 0;
+}

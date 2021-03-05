@@ -1,0 +1,4 @@
+.alignFooter {
+	display: flex;
+	justify-content: space-between;
+}
