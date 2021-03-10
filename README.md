@@ -22,5 +22,5 @@ interviews)
 ## Softwares/Interfaces used:
 1. PHP for webapp
 2. Python for parsing and selecting cv's.
-3. Python Packages for above: pyreparser(requires nltk and spacy), RandomForestClassifier from Sklearn. 
+3. Python Packages for above: pyresparser(requires nltk and spacy), RandomForestClassifier from Sklearn. 
 4. MySQL for database
