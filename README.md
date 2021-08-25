@@ -24,3 +24,10 @@ interviews)
 2. Python for parsing and selecting cv's.
 3. Python Packages for above: pyresparser(requires nltk and spacy), RandomForestClassifier from Sklearn. 
 4. MySQL for database
+
+## Members:
+1. Akarsh Verma
+2. Pritam Rane
+3. Neel Suba
+4. Pramod Baviskar
+
